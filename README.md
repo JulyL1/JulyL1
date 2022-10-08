@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JulyL1
-- 👀 I’m interested in webdevlop&frontEd
+- 👀 I’m interested in web development&frontEd
 - 🌱 I’m currently learning system design & web video
 - 📫 How to reach me 1105063894@qq.com
 
